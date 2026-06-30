@@ -313,5 +313,5 @@ Possible enhancements:
 
 ## Author
 
-Piyush Palkatwar
+**Piyush Palkatwar**
 Focused on building AI-driven business solutions and transitioning into advanced Machine Learning and Generative AI engineering.
