@@ -314,4 +314,7 @@ Possible enhancements:
 ## Author
 
 **Piyush Palkatwar**
+
+AI-Augmented Analyst • Data Science • AI-ML Enthusiast • 
+
 Focused on building AI-driven business solutions and transitioning into advanced Machine Learning and Generative AI engineering.
